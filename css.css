@@ -1,0 +1,67 @@
+.Background_Static{
+    background-color: #dc143c
+}
+.Background_Gradient{
+    background-image: url('Assets/PointOfPride_Blog_HistoryOfTheTransFlag.png');
+    background-position-y: 35%;
+  }
+
+.Text1{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.Text2{
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+}
+
+.button {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    margin-right: auto;/*centres in compliant browsers*/
+    margin-left: auto;/* "	" */
+    width: 700px;
+    text-align: Center;
+  }
+
+body {
+    text-align: center;/* hack for ie5*/
+    margin: 0px;
+    padding: 0px;
+    }
+
+.central {
+    margin-right: auto;/*centres in compliant browsers*/
+    margin-left: auto;/* "	" */
+    width: 755px;
+    text-align: center;
+    }
+
+.image-1{
+    margin-top: 0.5cm;
+    margin-bottom: 1cm;
+    border-radius: 60px;
+    display: block;
+     margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+      }
