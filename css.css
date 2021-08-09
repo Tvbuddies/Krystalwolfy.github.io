@@ -1,8 +1,10 @@
+/*To change the background colour alter the Hex value Then on line 10 of the HTMl change the class of <body> to "Background_Static"  */
 .Background_Static{
     background-color: #dc143c
 }
-.Background_Gradient{
-    background-image: url('Assets/PointOfPride_Blog_HistoryOfTheTransFlag.png');
+/*To change the background image add a image file then change the file name bellow to the one of the new file <body> to "Background_Img"  */
+.Background_Img{
+    background-image: url('PointOfPride_Blog_HistoryOfTheTransFlag.png');
     background-position-y: 35%;
   }
 
